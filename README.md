@@ -6,5 +6,7 @@ For example, you can use JavaScript to validate the email address, check if all 
 
 Output Images
 
-http://127.0.0.1:5500/registration.html
-http://127.0.0.1:5500/registration.html
+![WhatsApp Image 2024-03-15 at 23 44 23_265c59a8](https://github.com/saurav-chafle/Registration-form-student/assets/163088315/da674ce1-0900-459e-8150-1a949f287292)
+![WhatsApp Image 2024-03-15 at 23 44 59_0ba1e190](https://github.com/saurav-chafle/Registration-form-student/assets/163088315/ff7a9a05-cd3f-492a-bfcb-be84b25d90d9)
+
+
